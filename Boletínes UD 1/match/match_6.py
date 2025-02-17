@@ -1,5 +1,5 @@
 yo = input('Elige una opción: ')
-yo = yo.upper()
+yo = yo.upper() 
 
 import random
 apuesta_maquina = random.randint(0,2)
